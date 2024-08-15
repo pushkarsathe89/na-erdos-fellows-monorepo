@@ -39,6 +39,12 @@ The New Atlantis Labs Ocean Data Fellowship focuses on:
 3. Promoting open-source collaboration in marine science
 
 ## Getting Started
+In your terminal or command prompt, ensure you have miniconda or anaconda installed. Use the following command:
+
+`
+conda env create -f environment.yaml
+`
+
 
 ### Prerequisites
 
