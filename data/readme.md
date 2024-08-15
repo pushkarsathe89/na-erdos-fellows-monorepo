@@ -1,6 +1,6 @@
 ![New Atlantis Labs Logo](path/to/logo.png)
 
-# New Aatlantis Labs Ocean Data Fellowship
+# New Atlantis Labs Ocean Data Fellowship
 
 ## Translating Ocean Health into Actionable Insights
 
