@@ -1,0 +1,17 @@
+name: plankton
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy
+      - jupyter
+      - pandas
+      - ipykernel
+      - scikit-image
+      - scikit-learn
+      - ipykernel
+      - matplotlib
+      - shap
+      - xgboost

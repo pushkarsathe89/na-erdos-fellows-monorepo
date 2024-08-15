@@ -3,3 +3,6 @@
 data/plankton-patrol_ChesapeakeBioMass.csv
 data/plankton-patrol_ChesapeakeWaterQuality.csv
 .vscode/settings.json
+data/info/*
+data/*plankton-patrol*
+data/*
