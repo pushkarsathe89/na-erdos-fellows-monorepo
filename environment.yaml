@@ -11,6 +11,7 @@ dependencies:
       - ipykernel
       - scikit-image
       - scikit-learn
+      - scikit-learn-intelex
       - ipykernel
       - matplotlib
       - shap
